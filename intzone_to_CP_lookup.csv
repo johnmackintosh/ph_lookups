@@ -1,80 +1,80 @@
-IntZone,IntZoneName,CP_Name
-S02001370,"Mull, Iona, Coll and Tiree","Oban, Lorn & the Isles"
-S02001371,Oban South,"Oban, Lorn & the Isles"
-S02001372,Oban North,"Oban, Lorn & the Isles"
-S02001373,Benderloch Trail,"Oban, Lorn & the Isles"
-S02001374,Loch Awe,"Oban, Lorn & the Isles"
-S02001375,Mid Argyll,"Mid-Argyll, Kintyre & Islay"
-S02001376,Greater Lochgilphead,"Mid-Argyll, Kintyre & Islay"
-S02001377,Knapdale,"Mid-Argyll, Kintyre & Islay"
-S02001378,Whisky Isles,"Mid-Argyll, Kintyre & Islay"
-S02001379,Kintyre Trail,"Mid-Argyll, Kintyre & Islay"
-S02001380,Campbeltown,"Mid-Argyll, Kintyre & Islay"
-S02001381,Bute,Cowal and Bute
-S02001382,Rothesay Town,Cowal and Bute
-S02001383,Cowal South,Cowal and Bute
-S02001384,Cowal North,Cowal and Bute
-S02001385,Hunter's Quay,Cowal and Bute
-S02001386,Dunoon,Cowal and Bute
-S02001387,Garelochhead,Helensburgh & Lomond
-S02001388,Helensburgh West and Rhu,Helensburgh & Lomond
-S02001389,Helensburgh North,Helensburgh & Lomond
-S02001390,Helensburgh Centre,Helensburgh & Lomond
-S02001391,Helensburgh East,Helensburgh & Lomond
-S02001392,Lomond Shore,Helensburgh & Lomond
-S02001978,Lochaber West,Lochaber
-S02001979,Fort William North,Lochaber
-S02001980,Fort William South,Lochaber
-S02001981,Lochaber East and North,Lochaber
-S02001982,Badenoch and Strathspey South,Badenoch and Strathspey
-S02001983,Badenoch and Strathspey Central,Badenoch and Strathspey
-S02001984,Badenoch and Strathspey North,Badenoch and Strathspey
-S02001985,Nairn Rural,Nairn & Nairnshire
-S02001986,Nairn East,Nairn & Nairnshire
-S02001987,Nairn West,Nairn & Nairnshire
-S02001988,Inverness East Rural,Inverness
-S02001989,Inverness Culloden and Balloch,Inverness
-S02001990,Inverness Smithton,Inverness
-S02001991,Inverness Westhill,Inverness
-S02001992,Inverness Inshes,Inverness
-S02001993,Inverness Slackbuie,Inverness
-S02001994,Inverness Lochardil and Holm Mains,Inverness
-S02001995,Inverness Drummond,Inverness
-S02001996,Inverness Hilton,Inverness
-S02001997,Inverness Drakies,Inverness
-S02001998,"Inverness Central, Raigmore and Longman",Inverness
-S02001999,Inverness Crown and Haugh,Inverness
-S02002000,Inverness Ballifeary and Dalneigh,Inverness
-S02002001,Inverness Muirtown,Inverness
-S02002002,Inverness Merkinch,Inverness
-S02002003,Inverness Scorguie,Inverness
-S02002004,Inverness Kinmylies and South West,Inverness
-S02002005,Inverness West Rural,Inverness
-S02002006,Loch Ness,Inverness
-S02002007,Lochalsh,"Skye, Lochalsh and West Ross"
-S02002008,Skye South,"Skye, Lochalsh and West Ross"
-S02002009,Skye North East,"Skye, Lochalsh and West Ross"
-S02002010,Skye North West,"Skye, Lochalsh and West Ross"
-S02002011,Ross and Cromarty South West,"Skye, Lochalsh and West Ross"
-S02002012,Ross and Cromarty North West,"Skye, Lochalsh and West Ross"
-S02002013,Ross and Cromarty Central,Mid Ross
-S02002014,Ross and Cromarty East,East Ross
-S02002015,Muir of Ord,Mid Ross
-S02002016,Conon,Mid Ross
-S02002017,Dingwall,Mid Ross
-S02002018,Black Isle South,Mid Ross
-S02002019,Black Isle North,Mid Ross
-S02002020,Alness,East Ross
-S02002021,Invergordon,East Ross
-S02002022,Seaboard,East Ross
-S02002023,Tain,East Ross
-S02002024,Sutherland South,Sutherland
-S02002025,Sutherland East,Sutherland
-S02002026,Caithness South,Caithness
-S02002027,Wick South,Caithness
-S02002028,Wick North,Caithness
-S02002029,Caithness North East,Caithness
-S02002030,Caithness North West,Caithness
-S02002031,Thurso East,Caithness
-S02002032,Thurso West,Caithness
-S02002033,Sutherland North and West,Sutherland
+IntZone,IntZoneName,CP_Name,IntZoneName_alt
+S02001370,"Mull, Iona, Coll and Tiree","Oban, Lorn & the Isles","Mull, Iona, Coll & Tiree"
+S02001371,Oban South,"Oban, Lorn & the Isles",Oban South
+S02001372,Oban North,"Oban, Lorn & the Isles",Oban North
+S02001373,Benderloch Trail,"Oban, Lorn & the Isles",Benderloch Trail
+S02001374,Loch Awe,"Oban, Lorn & the Isles",Loch Awe
+S02001375,Mid Argyll,"Mid-Argyll, Kintyre & Islay",Mid Argyll
+S02001376,Greater Lochgilphead,"Mid-Argyll, Kintyre & Islay",Greater Lochgilphead
+S02001377,Knapdale,"Mid-Argyll, Kintyre & Islay",Knapdale
+S02001378,Whisky Isles,"Mid-Argyll, Kintyre & Islay",Whisky Isles
+S02001379,Kintyre Trail,"Mid-Argyll, Kintyre & Islay",Kintyre Trail
+S02001380,Campbeltown,"Mid-Argyll, Kintyre & Islay",Campbeltown
+S02001381,Bute,Cowal and Bute,Bute
+S02001382,Rothesay Town,Cowal and Bute,Rothesay Town
+S02001383,Cowal South,Cowal and Bute,Cowal South
+S02001384,Cowal North,Cowal and Bute,Cowal North
+S02001385,Hunter's Quay,Cowal and Bute,Hunter's Quay
+S02001386,Dunoon,Cowal and Bute,Dunoon
+S02001387,Garelochhead,Helensburgh & Lomond,Garelochhead
+S02001388,Helensburgh West and Rhu,Helensburgh & Lomond,Helensburgh West & Rhu
+S02001389,Helensburgh North,Helensburgh & Lomond,Helensburgh North
+S02001390,Helensburgh Centre,Helensburgh & Lomond,Helensburgh Centre
+S02001391,Helensburgh East,Helensburgh & Lomond,Helensburgh East
+S02001392,Lomond Shore,Helensburgh & Lomond,Lomond Shore
+S02001978,Lochaber West,Lochaber,Lochaber West
+S02001979,Fort William North,Lochaber,Fort William North
+S02001980,Fort William South,Lochaber,Fort William South
+S02001981,Lochaber East and North,Lochaber,Lochaber East & North
+S02001982,Badenoch and Strathspey South,Badenoch and Strathspey,Badenoch & Strathspey South
+S02001983,Badenoch and Strathspey Central,Badenoch and Strathspey,Badenoch & Strathspey Central
+S02001984,Badenoch and Strathspey North,Badenoch and Strathspey,Badenoch & Strathspey North
+S02001985,Nairn Rural,Nairn & Nairnshire,Nairn Rural
+S02001986,Nairn East,Nairn & Nairnshire,Nairn East
+S02001987,Nairn West,Nairn & Nairnshire,Nairn West
+S02001988,Inverness East Rural,Inverness,Inverness East Rural
+S02001989,Inverness Culloden and Balloch,Inverness,Inverness Culloden & Balloch
+S02001990,Inverness Smithton,Inverness,Inverness Smithton
+S02001991,Inverness Westhill,Inverness,Inverness Westhill
+S02001992,Inverness Inshes,Inverness,Inverness Inshes
+S02001993,Inverness Slackbuie,Inverness,Inverness Slackbuie
+S02001994,Inverness Lochardil and Holm Mains,Inverness,Inverness Lochardil & Holm Mains
+S02001995,Inverness Drummond,Inverness,Inverness Drummond
+S02001996,Inverness Hilton,Inverness,Inverness Hilton
+S02001997,Inverness Drakies,Inverness,Inverness Drakies
+S02001998,"Inverness Central, Raigmore and Longman",Inverness,"Inverness Central, Raigmore & Longman"
+S02001999,Inverness Crown and Haugh,Inverness,Inverness Crown & Haugh
+S02002000,Inverness Ballifeary and Dalneigh,Inverness,Inverness Ballifeary & Dalneigh
+S02002001,Inverness Muirtown,Inverness,Inverness Muirtown
+S02002002,Inverness Merkinch,Inverness,Inverness Merkinch
+S02002003,Inverness Scorguie,Inverness,Inverness Scorguie
+S02002004,Inverness Kinmylies and South West,Inverness,Inverness Kinmylies & South West
+S02002005,Inverness West Rural,Inverness,Inverness West Rural
+S02002006,Loch Ness,Inverness,Loch Ness
+S02002007,Lochalsh,"Skye, Lochalsh and West Ross",Lochalsh
+S02002008,Skye South,"Skye, Lochalsh and West Ross",Skye South
+S02002009,Skye North East,"Skye, Lochalsh and West Ross",Skye North East
+S02002010,Skye North West,"Skye, Lochalsh and West Ross",Skye North West
+S02002011,Ross and Cromarty South West,"Skye, Lochalsh and West Ross",Ross & Cromarty South West
+S02002012,Ross and Cromarty North West,"Skye, Lochalsh and West Ross",Ross & Cromarty North West
+S02002013,Ross and Cromarty Central,Mid Ross,Ross & Cromarty Central
+S02002014,Ross and Cromarty East,East Ross,Ross & Cromarty East
+S02002015,Muir of Ord,Mid Ross,Muir of Ord
+S02002016,Conon,Mid Ross,Conon
+S02002017,Dingwall,Mid Ross,Dingwall
+S02002018,Black Isle South,Mid Ross,Black Isle South
+S02002019,Black Isle North,Mid Ross,Black Isle North
+S02002020,Alness,East Ross,Alness
+S02002021,Invergordon,East Ross,Invergordon
+S02002022,Seaboard,East Ross,Seaboard
+S02002023,Tain,East Ross,Tain
+S02002024,Sutherland South,Sutherland,Sutherland South
+S02002025,Sutherland East,Sutherland,Sutherland East
+S02002026,Caithness South,Caithness,Caithness South
+S02002027,Wick South,Caithness,Wick South
+S02002028,Wick North,Caithness,Wick North
+S02002029,Caithness North East,Caithness,Caithness North East
+S02002030,Caithness North West,Caithness,Caithness North West
+S02002031,Thurso East,Caithness,Thurso East
+S02002032,Thurso West,Caithness,Thurso West
+S02002033,Sutherland North and West,Sutherland,Sutherland North & West
